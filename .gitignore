@@ -3,7 +3,7 @@ node_modules/
 public
 src/gatsby-types.d.ts
 .env*
-images
+/images
 
 # Local Netlify folder
 .netlify
